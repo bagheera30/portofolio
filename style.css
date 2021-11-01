@@ -1,5 +1,7 @@
-.carousel slide {
-  background-image: url("https://wallpaper-house.com/data/out/8/wallpaper2you_247419.jpg") no-repeat center center;
-  background: cover;
-  padding-top: 20%;
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat scroll center scroll;
+  -webkit-background-size: cover;
+  background-size: cover;
 }
